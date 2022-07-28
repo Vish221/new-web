@@ -1,0 +1,391 @@
+.upper{
+    height:45px;
+    width:1450px;
+    background:yellow;
+    margin-top:-10px;
+}
+ul li{
+    display: inline-block; 
+    padding-left: 30px;
+    font-size: 20px;
+}
+.contact-details{
+    padding-top:10;
+}
+ul li a{
+    text-decoration: none;
+    color: brown;
+}
+.upper_1st{
+    height:80px;
+    width:1450px;
+    background: #892c1b;
+}
+.nav_tab{
+    float: left;
+}
+.nav{
+    background-color:transparent;
+    font-size:20;
+    margin-top:30;
+    margin-left: 10px;
+    color:white;
+}
+
+.nav a{
+    text-decoration: none;
+    color:white;
+    padding-left:20px;
+    padding-right: 30;
+    font-family: sans-serif;
+    
+}
+.nav a:hover{
+    height: 50px;
+    width: 50px;
+    background: yellow;
+}
+.bride{
+    width: 1450px;
+}
+h2{
+    margin-top: -360px;
+    margin-left: 900px;
+    display:inline-block;
+    font-size: 46px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.met{
+    margin-top: -310;
+    margin-left: 900px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.metty{
+    margin-left: 900px;
+}
+.hel{
+    width: 1450px;
+    height: 545px;
+}
+.hello-1{
+    background-image:url('bg.jpg');
+    margin-top: -22px;
+    height: 750px;
+    width:1450px;
+}
+.ns{ 
+    height:750px;
+    width:650px;
+    padding-left: 80px;
+    float: left;
+    
+}
+.quat{
+    display: inline-block;
+   padding-top:100px;
+   font-size:30px;
+   font-family: sans-serif;
+}
+.spab{
+    font-size:37px; 
+}
+.para{
+    font-size: 22px;
+    font-family: sans-serif;
+}
+.image-div{
+    float: left;
+    padding-top:190px;
+    padding-left: 100px;
+    
+}
+.hello-2{
+    background-image:url('bg1.jpg');
+    height: 750px;
+    width:1450px;
+}
+.ns-1{ 
+    height:650px;
+    width:650px;
+    padding-left: 80px;
+    float: left;
+    
+}
+.quat-1{
+    display: inline-block;
+   padding-top:100px;
+   font-size:24px;
+   font-weight: 300;
+   font-family:'Roboto';
+   color: #892c1b;
+}
+.spab-1{
+    font-size:37px; 
+    font-family: sans-serif;
+}
+.line{
+    height:90px;
+    width:5px;
+    background-color: #892c1b;
+    
+}
+.para-1{
+    height:70px;
+    width:850px;
+    padding-left:16px;
+    font-size:25px;
+    font-family: sans-serif;
+}
+.line-1{
+    height:70px;
+    width:5px;
+    background-color: #892c1b;
+}
+.image-div-1{
+    float: left;
+    padding-top:190px;
+    padding-left: 200px;
+}
+.hello-3{
+    background-image: url(bg.jpg);
+    height: 650px;
+    width: 1450px;
+    float: left;
+}
+.first{
+    margin-top:75px;
+    margin-left:100px;
+}
+.abu{
+    margin-top:-100;
+    margin-left:245;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color:#892c1b ;
+}
+.st{
+    margin-left:10PX;
+    font-weight: 500;
+}
+.abu-2{
+    margin-top:-100;
+    margin-left:715PX;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color:#892c1b ;
+}
+.abu-3{
+    margin-top:-100;
+    margin-left:1190PX;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color:#892c1b ;
+}
+.H4{
+    font-size:20PX;
+    margin-top:80PX;
+    margin-left:715PX;
+    font-family:sans-serif;
+    color: gray;
+    transition: 0.5s;
+}
+
+.H4:hover{
+    font-size:30PX;
+    color:#892c1b;
+    margin-left:710PX;
+}
+.hello-4{
+    height: 550px;
+    width: 1450px;
+    background-image:url('bg.jpg');
+    float: left;
+} 
+.henh{
+    float: left;
+    width: 550px;
+    margin-left:60px;
+}   
+.form-control{
+    height: 41px;
+    border-color: #e3e3e3;
+    padding: 0 10px;
+    font: 400 16px/41px'Open Sans', sans-serif;
+    color: #9e9e9e;
+    background-color: #fff;
+    width: 550px;
+    margin-top:10px;
+    border:0px solid;
+    float: left;
+}
+.btn{
+    margin-top: 30;
+    height: 40px;
+    width: 100px;
+    font-size:20;
+    color: white;
+    background-color:#892c1b;
+    border:1px solid #892c1b ;
+}
+.btn:hover{
+    background-color: yellow;
+}
+.footer{
+    height:350px;
+    width: 1450px;
+    background-color: #892c1b;
+    float: left;
+}
+.footer_logo{
+    margin-left: 570px;
+    margin-top:-25px;
+    color: indianred;
+}
+.division{
+    height: 50px;
+}
+.footeelink{
+     margin-left:180px;
+     height: 40px; 
+     color: white;
+}
+.footeelink-1{
+    text-decoration: none;
+     font-size:20px;
+     width:40px;
+     color:white;
+     margin-left:10px;
+     margin-right:10px;
+     font-family: sans-serif;
+     
+}
+.footeelink-1:hover{
+    color: yellow;
+}
+.footeelink-2{
+    margin-left:150px;
+    font-family: sans-serif;
+    font-size:20px;
+    color:white;
+    width:1150px;
+}
+.hello-6{
+    float: left;
+    background-image:url('bg1.jpg');
+    height: 550px;
+    width:1450px;
+}
+.quat-2{
+    color: #892c1b;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+.spab-2{
+    font-weight: 650;
+}
+.ns-2{
+    height:650px;
+    width:650px;
+    padding-left: 80px;
+    padding-top: 80px;
+    float: left;
+}
+.para-2{
+    width:850px;
+    margin-left:20px;
+    font-size: 23px;
+    font-family: sans-serif;
+    color: #892c1b;
+}
+.image-div-2{
+    float: left;
+    padding-top:50px;
+    padding-left: 220px;   
+}
+.btn-1{
+    text-decoration: none;
+    float: left;
+    padding-top:30px;
+    color: #892c1b;
+    font-size: 20px;
+}
+.btn-1:hover{
+    font-size: 30px;
+    color:red;
+}
+.page-5{
+    background-image:url('sucees-stories.jpg');
+    float: left;
+    height: 550px;
+    width:1450px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image-gallery{
+    margin-top: 75px;
+    margin-left:50px;
+}
+.h1{
+    float: left;
+}
+.h2{
+    float: left;
+}
+.h3{float: left;}
+.h6{
+    float: left;
+}
+.name{
+    font-size:20px;
+    color: white;
+    padding-left:120px;
+    font-family: sans-serif;
+}
+.area{
+    font-size:20px;
+    color: yellow;
+    padding-left:175px;
+    font-family: sans-serif;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    padding-left:155px;
+    color: white;
+}
+.link:hover{
+    color: yellow;   
+}
+.map{
+    float: left;
+    margin-left:45px;
+    font-size:20px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.state{
+    font-size:20px;
+    font-weight: 550;
+}
+.map-tool{
+    float: left;
+}
+.map_ad{
+   text-decoration: none;
+    font-weight: 500;
+    font-size:20px;
+    color: #9e9e9e;
+    float: left;
+    transition:0.5s;
+}
+.map_ad:hover{
+ font-size: 30px;
+ color: #892c1b;
+}
